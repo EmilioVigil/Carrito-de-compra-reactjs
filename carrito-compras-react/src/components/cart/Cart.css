@@ -1,0 +1,6 @@
+.cart-empty {
+    text-align: center;
+    padding: 1rem;
+    font-size: 2em;
+    color: #ff5722;
+}

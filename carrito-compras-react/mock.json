@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "El gran Gatsby",
+            "autor": "F. Scott Fitzgerald",
+            "price": 4500,
+            "img": "https://images.pexels.com/photos/256450/pexels-photo-256450.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "quanty": 1
+        },
+        {
+            "id": 2,
+            "name": "1984",
+            "autor": "George Orwell",
+            "price": 7000,
+            "img": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "quanty": 1
+        },
+        {
+            "id": 3,
+            "name": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "price": 3550,
+            "img": "https://images.pexels.com/photos/2228586/pexels-photo-2228586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "quanty": 1
+        },
+        {
+            "id": 4,
+            "name": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes Saavedra",
+            "price": 4900,
+            "img": "https://images.pexels.com/photos/5095897/pexels-photo-5095897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "quanty": 1
+        },
+        {
+            "id": 5,
+            "name": "Orgullo y prejuicio",
+            "autor": "Jane Austen",
+            "price": 8500,
+            "img": "https://images.pexels.com/photos/3747497/pexels-photo-3747497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "quanty": 1
+        }
+    ]
+}
